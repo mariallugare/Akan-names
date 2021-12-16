@@ -1,6 +1,6 @@
 # Akan-names
 # AGE CALCULATION FOR AKAN
-#### This application system,helps you know your Ghanian name, 17th July 2021
+#### This application system,helps you know your Ghanian name, 13 Dec 2021
 #### By **{Marial Achieng}**
 
 The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. The naming of children is of great importance in
@@ -23,6 +23,6 @@ The technologies used are:
 
 ## Support and contact details
 Phone: +254 728608551
-Email: marialclarie@gmail.com
+Email: mariallugare@gmail.com
 ### License
 Copyright (c) {2021} **{Marial Achieng}**
